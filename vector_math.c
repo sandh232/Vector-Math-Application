@@ -1,6 +1,6 @@
 /**
 * Programmer: Manpreet Sandhu
-* Student ID: 991493154
+* 
 **/
 #include <stdio.h>
 #include "vector_math.h"
